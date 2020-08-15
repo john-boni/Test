@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+fieldset{
+    background-color: darkslategray;
+  
+}
+p.left{
+    text-align: left;
+}
+footer{
+    background-color: salmon;
+}
+h1.big font{
+    font-size: 50px;
+    margin-top: initial;
+    text-underline-position: below;
+}

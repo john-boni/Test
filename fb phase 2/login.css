@@ -1,0 +1,78 @@
+body{
+    background-color: #e9ebee;
+    padding: 0%;
+    margin: 0;
+    font-family:  Helvetica;
+    color: #1c1e21;
+}
+
+div.container{
+    width: 700px;
+    height: 380px;
+    margin: 100px auto;
+    background-color:white;
+    position: relative;
+   
+}
+div.container h1{
+    margin: 0%;
+    padding: 0;
+    font-size: 20px;
+    text-align: center;
+}
+div.container form ::placeholder{
+    text-align: center;
+    size: 30px;
+}
+button{
+    background-color: rgb(66, 182, 66);
+    color: white;
+    line-height: 30px;
+}
+header{
+    background-color: rgb(95, 95, 209);
+    width: 100%;
+    line-height: 80px;
+    margin: initial;
+}
+h1{
+    color: white;
+    position: relative;
+    margin-left: 10%;
+    font-family: Helvetica;
+}
+p{
+    color:rgb(95, 95, 209);
+    font-size: 15px;
+}
+button.last{
+    line-height: 10px;
+    width: 200px;
+    color: white;
+
+}
+button.login{
+    line-height: 30px;
+    width: 200px;
+    color: white;
+  
+  
+}
+form.box input{
+    line-height: 40px;
+    width: 300px;
+    margin-top: 40px;
+    list-style: square;
+}
+p.forget{
+    font-family:Helvetica;
+    font-size: 15px;
+}
+button.login h1{
+    background-color:color:rgb(95, 95, 209); 
+}
+h3{
+   color: #1c1e21;
+   motion:3em;
+   margin-bottom: initial;
+}
